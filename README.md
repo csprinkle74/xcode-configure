@@ -16,7 +16,7 @@ This command can generate makefile to build xcode project in command line just l
 
 ### How
 * Config
-	* 1. Download xcode-configure to local and add to environment or alias like me follow 
+		* 1. Download xcode-configure to local and add to environment or alias like me follow 
 	<pre>
 	alias xcode-configure=/Users/starnet/Projects/xcode-configure/xcode-configure</pre>
 
